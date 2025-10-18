@@ -51,7 +51,7 @@ Material:
     - _opacitySpeedFactor: 1
     - _opacitySpeedSetting: 0.1
     - _scrollingSpeed: 0.37
-    - _speedPower: 220396640
+    - _speedPower: 220513680
     - _speedSquare: 237521710
     m_Colors:
     - _Color: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 1}
